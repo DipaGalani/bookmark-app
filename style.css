@@ -34,7 +34,7 @@ body {
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-.container {
+.bookmark-container {
     display: flex;
     flex-wrap: wrap;
 }
@@ -121,7 +121,7 @@ a:active {
     }
 }
 
-#close-icon {
+#close-modal {
     float: right;
     position: relative;
     top: 13px;
